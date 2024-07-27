@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+- :books: You can find my blog [here](https://cypher-bruce.github.io/)
 - 🌱 I’m currently learning RL, HPC
 - 📫 How to reach me: cypherbruce@outlook.com or 12212006@mail.sustech.edu.cn
 
